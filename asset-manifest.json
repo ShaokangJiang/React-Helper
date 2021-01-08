@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Helper-Site/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/React-Helper-Site/static/js/main.cc16b5c8.chunk.js",
+    "main.js.map": "/React-Helper-Site/static/js/main.cc16b5c8.chunk.js.map",
+    "runtime-main.js": "/React-Helper-Site/static/js/runtime-main.d604049f.js",
+    "runtime-main.js.map": "/React-Helper-Site/static/js/runtime-main.d604049f.js.map",
+    "static/js/2.fe73c24e.chunk.js": "/React-Helper-Site/static/js/2.fe73c24e.chunk.js",
+    "static/js/2.fe73c24e.chunk.js.map": "/React-Helper-Site/static/js/2.fe73c24e.chunk.js.map",
+    "static/js/3.ad4cbfe4.chunk.js": "/React-Helper-Site/static/js/3.ad4cbfe4.chunk.js",
+    "static/js/3.ad4cbfe4.chunk.js.map": "/React-Helper-Site/static/js/3.ad4cbfe4.chunk.js.map",
+    "index.html": "/React-Helper-Site/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/React-Helper-Site/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fe73c24e.chunk.js.LICENSE.txt": "/React-Helper-Site/static/js/2.fe73c24e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Helper-Site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d604049f.js",
+    "static/js/2.fe73c24e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.cc16b5c8.chunk.js"
+  ]
+}
